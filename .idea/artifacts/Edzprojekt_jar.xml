@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Edzőprojekt:jar">
+    <output-path>$PROJECT_DIR$/../../../iderakd</output-path>
+    <root id="archive" name="Edzőprojekt.jar">
+      <element id="module-output" name="Edzőprojekt" />
+    </root>
+  </artifact>
+</component>
